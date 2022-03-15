@@ -4,5 +4,4 @@ Cryptocurrency dashboard showing candlestick chart, daily trends of cryptocurren
 ***
 ![alt text](website.png "Crypto Dashboard")
 ***
-Read the Medium article here:
 
